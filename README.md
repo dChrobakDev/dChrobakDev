@@ -9,7 +9,7 @@
 
 ## 🍀 Currently Building:
 
-1. ⚔️ **Simple Turn-Based Combat System** in C++ – [Completed]  
+1. ⚔️ **Simple Turn-Based Combat System** in C++ – [Completed]  --> https://github.com/dChrobakDev/TURN-BASED-COMBAT-SYSTEM
 2. ⚔️ **Next project in progress...**  
 
 ---
