@@ -6,7 +6,8 @@
 💪 My goal is to create gameplay and gaming systems, and my dream is to work in the CD PROJEKT RED studio.
 
 - 🍀 Currectly building:
-      - ⚔️ Simple turn-based combat system in C++
+      1. ⚔️ Simple turn-based combat system in C++
+      2. ⚔️ In progress 
 - 📫 How to reach me:
       - [LinkedIn](https://www.linkedin.com/in/dawid-chrobak-9511a0373/)
       - GitHub: [dChrobakDev] (https://github.com/dChrobakDev)
