@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi there! I'm David
 
-<!--
-**dChrobakDev/dChrobakDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Aspiring Game Developer
+💻 Focused on C++ and Unreal Engine
+🛠️ Learning through small projects
+💪 My goal is to create gameplay and gaming systems, and my dream is to work in the CD PROJEKT RED studio.
 
-Here are some ideas to get you started:
+- 🍀 Currectly building:
+      - ⚔️ Simple turn-based combat system in C++
+- 📫 How to reach me:
+      - [LinkedIn](https://www.linkedin.com/in/dawid-chrobak-9511a0373/)
+      - GitHub: [dChrobakDev] (https://github.com/dChrobakDev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓 Always learning and leveling up!
