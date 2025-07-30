@@ -12,7 +12,7 @@
 1. ⚔️ **Simple Turn-Based Combat System** in C++ – [Completed]  --> https://github.com/dChrobakDev/TURN-BASED-COMBAT-SYSTEM
 2. ⚔️ **Simple Turn-Based Combat System [EXTENDED EDITION]**  in C++ - [Completed --> https://github.com/dChrobakDev/SIMPLE-TURN-BASED-COMBAT-SYSTEM-V2-EXTENDED-GAMEPLAY-DEMO
 3. ⚔️ **ADVANCED Turn-Based Combat System** in C++ - [Completed] --> https://github.com/dChrobakDev/ADVANCED-TURN-BASED-COMBAT-V3
-4. ⚔️ **Next project in progress...**
+4. ⚔️ **Next project in progress... [ ADVANCED ENEMY 2.0 ]**
 ---
 
 ## 📫 How to Reach Me:
